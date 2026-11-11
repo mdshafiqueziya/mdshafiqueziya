@@ -82,14 +82,6 @@ Complete full-stack application using:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshafiqueziya&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshafiqueziya&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/mdshafiqueziya
